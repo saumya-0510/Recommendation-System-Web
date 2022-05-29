@@ -86,4 +86,3 @@ SCRUM is a subset of Agile, a framework for developing software. SCRUM takes adv
 
 All the datasets and pickle files are available at [Link](https://drive.google.com/drive/folders/1CX57KK8ruKvL-a_ZnSELAFawwR9Ey03y?usp=sharing)
 
-The analysis notebooks for this project are available at [Repo](https://github.com/saumya-0510/Job-Recommendation-System).
