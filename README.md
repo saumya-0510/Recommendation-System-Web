@@ -21,7 +21,7 @@ Laptops, Desktops and Tablet PCs
 
 ### Built With 
 
-Machine Learning and NLP model 
+Machine Learning and Streamlit
 
  
 
